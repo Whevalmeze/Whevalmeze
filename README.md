@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Whevalmeze</h1>
+<h1>👋 Hi, I’m wheval</h1>
 - 👀 I’m interested in JavaScript, OpenSource, and Connections<br>
 - 🌱 I’m currently learning Frontend Development<br>
 - 💞️ I’m looking to collaborate on OpenSource Projects<br>
